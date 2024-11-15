@@ -11,3 +11,4 @@ export const formatCurrency = (
 
 export const formatPrice = (price: number): string => {
   return formatCurrency(price)
+}
